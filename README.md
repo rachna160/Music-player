@@ -49,12 +49,3 @@ Toggle Dark/Light Mode 🌙.
 
 Play, pause, skip songs, or control volume using the controls.
 
-
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/netflix-music-player.git
-cd netflix-music-player
